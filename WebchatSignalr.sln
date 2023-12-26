@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebchatSignalr", "WebchatSignalr.csproj", "{877E3ED3-F0FE-4B30-8302-3CE19635D7A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DATAA", "..\DATAA\DATAA.csproj", "{EBF35ED7-FAAD-4133-A2ED-99C76D7F9524}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientChat", "..\ClientChat\ClientChat.csproj", "{8F74B4EB-3300-4288-AD4E-C1838D13BAF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877E3ED3-F0FE-4B30-8302-3CE19635D7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877E3ED3-F0FE-4B30-8302-3CE19635D7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877E3ED3-F0FE-4B30-8302-3CE19635D7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877E3ED3-F0FE-4B30-8302-3CE19635D7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF35ED7-FAAD-4133-A2ED-99C76D7F9524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF35ED7-FAAD-4133-A2ED-99C76D7F9524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF35ED7-FAAD-4133-A2ED-99C76D7F9524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF35ED7-FAAD-4133-A2ED-99C76D7F9524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F74B4EB-3300-4288-AD4E-C1838D13BAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F74B4EB-3300-4288-AD4E-C1838D13BAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F74B4EB-3300-4288-AD4E-C1838D13BAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F74B4EB-3300-4288-AD4E-C1838D13BAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F9BD010-ABDF-401E-A6A1-828BACFCF76D}
+	EndGlobalSection
+EndGlobal
